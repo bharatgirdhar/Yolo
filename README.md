@@ -11,8 +11,8 @@ Run this image through the code above.
 
 
 
-![Images](/images/2Q__ (1).jpg)
-![Images](/images/2Q__ (2).jpg)
+![Images](/images/001.jpg)
+![Images](/images/002.jpg)
 ![Images](/images/8c7a9c70.jpg)
 ![Images](/images/Boot.jpg)
 ![Images](/images/Hardhat.jpg)
